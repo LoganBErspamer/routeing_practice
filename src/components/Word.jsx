@@ -5,7 +5,7 @@ const Word = () => {
     const {word}=useParams()
   return (
     <div>
-        <p>The word is: {Word}</p>
+        <p>The word is: {word}</p>
     </div>
   )
 }
